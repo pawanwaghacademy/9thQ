@@ -1,0 +1,123 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Pick out the infinitive from the given sentence. - I was scolded and asked to clean the room.",
+        "options":
+        [
+            "Scolded",
+            "Asked",
+            "To clean",
+            "Clean"
+        ],
+        "correctAns": "To clean"
+    },
+    {
+        "QorL":"Q",
+        "question":"Pick out two compound words - 1.makeup 2.make brake 3.walking stick  4.walk slow ",
+        "options":
+        [
+            "1 and 2",
+            "1 and 3",
+            "1 and 4",
+            "None"
+        ],
+        "correctAns": "1 and 3"
+    },
+    {
+        "QorL":"Q",
+        "question":"Find out 2 hidden words of minimum 4 letters from downwards - 1.and 2.down 3.ward 4.dward     5.Rads",
+        "options":
+        [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "4 and 5"
+        ],
+        "correctAns": "2 and 3"
+    },
+    {
+        "QorL":"Q",
+        "question":"Choose the correct sentence from the following sentence.",
+        "options":
+        [
+            "Is that so. said Shiva.",
+            "is that so? Said shiva.",
+            "is that so? said Shiva.",
+            "Is that so? said Shiva."
+        ],
+        "correctAns": "Is that so? said Shiva."
+    },
+    {
+        "QorL":"Q",
+        "question":"Identify the kinds of sentence. - Then he flapped his wings and he soared upwards.",
+        "options":
+        [
+            "Simple  sentence",
+            "Compound sentence",
+            "Complex sentence",
+            "None of these"
+        ],
+        "correctAns": "Compound sentence"
+    },
+    {
+        "QorL":"Q",
+        "question":"Complete the words by using correct letters in the blank. - 1. Compa_y, 2.mista_e, 3.wor_d, 4. g_al ",
+        "options":
+        [
+            "e, t, r, o",
+            "n, t, l, o",
+            "n, l, t, o",
+            "t, r, o, e"
+        ],
+        "correctAns": "n, t, l, o"
+    },
+    {
+        "QorL":"Q",
+        "question":"Spot the error in the following sentence and rewrite it.- One of my friend is a great footballer.",
+        "options":
+        [
+            "One",
+            "my",
+            "friend",
+            "footballer"
+        ],
+        "correctAns": "friend"
+    },
+    {
+        "QorL":"Q",
+        "question":"Arrange the following words in alphabetical order. - comatos, comb, comagmatic, comanche.",
+        "options":
+        [
+            "1234",
+            "1432",
+            "4321",
+            "3412"
+        ],
+        "correctAns": "3412"
+    },
+    {
+        "QorL":"Q",
+        "question":"Complete the following word-chain of adjectives. - Beautiful, L________, _________",
+        "options":
+        [
+            "Luxurious, Suitable",
+            "Last, trouble",
+            "Long, gone",
+            "Live, entry"
+        ],
+        "correctAns": "Luxurious, Suitable"
+    },
+    {
+        "QorL":"Q",
+        "question":"He had won his laurels in athletic events. (Indentify the tense)",
+        "options":
+        [
+            "Simple Present Tense.",
+            "Past Perfect Tense.",
+            "Past continuous Tense.",
+            "Past Perfect Continuous Tesne."
+        ],
+        "correctAns": "Past Perfect Tense."
+    }
+]
